@@ -1,13 +1,6 @@
 Beauty Products Website 🌸
 A modern, responsive beauty products website built using React.js.
 
-📋 Table of Contents
-About the Project
-Features
-Technologies Used
-Setup Instructions
-
-📖 About the Project
 This project is a beautifully designed beauty products website that showcases various products with interactive UI elements. It's built using React.js and is responsive across devices.
 
 
@@ -31,7 +24,7 @@ git clone https://github.com/your-username/beauty-products-website.git
 2. Navigate to the project folder:
 cd beauty-products-website
 
-3. Install dependencies
+3. Install dependencies:
 npm install
 
 4. Start the development server:
