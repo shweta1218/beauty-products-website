@@ -1,14 +1,7 @@
 Beauty Products Website 🌸
-A modern, responsive beauty products website built using React.js.
+A modern beauty products website built using React.js.
 
-This project is a beautifully designed beauty products website that showcases various products with interactive UI elements. It's built using React.js and is responsive across devices.
-
-
-✨ Features
-✅ Responsive design
-✅ Product listing with images and details
-✅ User-friendly navigation
-✅ Cart system (if implemented)
+This project is a beautifully designed beauty products website that showcases various products with interactive UI elements. It's built using React.js and is responsive across some devices.
 
 
 🛠️ Technologies Used
